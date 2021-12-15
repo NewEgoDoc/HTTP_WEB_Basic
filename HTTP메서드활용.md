@@ -84,3 +84,7 @@ HTML Form 데이터 전송
 • 다른 종류의 여러 파일과 폼의 내용 함께 전송 가능(그래서 이름이 multipart)
 • 참고: HTML Form 전송은 GET, POST만 지원
 
+오~ Collection과 Store
+
+정리가 되면 좋은데 설계하다보면 좋은 프렉티스들이 모임
+
